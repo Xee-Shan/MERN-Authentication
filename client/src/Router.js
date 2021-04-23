@@ -23,6 +23,7 @@ export default function Router() {
         { loggedIn === true &&
         <Route path="/customer" component={Customer}/>
         }
+      {/* sdafkjlskdajflkjafkjdslakjflkasjdf */}
       </Switch>
         </div>
     )
